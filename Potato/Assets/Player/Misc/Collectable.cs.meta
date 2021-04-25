@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 722a1e6bb49f79e459822d3f1f20a39b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flyCanvas: {fileID: 2848107225473256964, guid: d998abed8ab3ca740a7b6b4d64a2d6b6, type: 3}
+  - rollCanvas: {fileID: 2848107225473256964, guid: f796894d996f256458c68b6704ec32da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
